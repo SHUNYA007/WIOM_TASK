@@ -3,3 +3,5 @@ uvicorn
 python-jose
 passlib[bcrypt]
 pydantic
+pytest
+httpx
